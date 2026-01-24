@@ -13,6 +13,9 @@ Para construir la imagen de esta aplicación los pasos están expuestos en [00-m
 
 El enunciado del ejercicio lo encontraremos en [00-monolith-in-mem/exercise-monolith-in-memory.md](00-monolith-in-mem/exercise-monolith-in-memory.md)
 
+
+![alt text](image.png)
+
 ## Ejercicio 2. Monolito.
 
 Se trata de la misma aplicación pero en este caso la persistencia en memoria se hace a través de una base de datos.
